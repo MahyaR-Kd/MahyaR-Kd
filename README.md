@@ -21,7 +21,7 @@ A passionate problem-solver at heart, I thrive on collaborating with cross-funct
 ⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.
 
   <a href="https://www.npmjs.com/~mahyar-kd" target="_blank">
-    <img src="svg/social/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/npm-logo.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a>
     
   <a href="https://linkedin.com/in/mahyar-kakavand" target="_blank">
