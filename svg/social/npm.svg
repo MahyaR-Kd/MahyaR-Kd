@@ -1,0 +1,35 @@
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" width="157.02" height="32.04"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 157.02 32.04">
+    <defs>
+        <clipPath id="clippath">
+            <path d="M31,0H5C2.24,0,0,2.24,0,5.01v22.03c0,2.76,2.24,5.01,5,5.01h26V0Z"
+                  style="fill:none; stroke-width:0px;"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1="78.5" y1="33.98" x2="78.5" y2="1.94"
+                        gradientTransform="translate(0 34) scale(1 -1)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+            <stop offset="1" stop-color="#000" stop-opacity=".1"/>
+        </linearGradient>
+    </defs>
+    <path d="M152.02.04H30.99v32h121.03c2.76,0,5-2.24,5-5V5.04c0-2.76-2.24-5-5-5Z"
+          style="fill:#0f1418; stroke-width:0px;"/>
+    <g style="clip-path:url(#clippath);">
+        <path d="M9.36,21.43v-1.52H2.17c-.38,0-.54-.07-.53-.5.02-2.76.02-5.52,0-8.28,0-.41.13-.52.52-.52h26.8c.13,0,.25.02.41.03v9.23h-13.79v1.54h-6.22v.02ZM27.83,12.2h-9.24v6.18h3.15v-4.57h1.47v4.58h1.52v-4.58h1.56v4.57h1.52v-6.18h.02ZM10.89,12.19v7.29c0,.15.13.43.21.44.96.03,1.92.02,2.92.02v-1.51c.89,0,1.72-.02,2.56,0,.37,0,.5-.1.49-.49-.02-1.8-.01-3.61-.01-5.42,0-.11-.02-.21-.04-.33h-6.15.02ZM7.84,13.8v4.58h1.56v-6.17H3.21v6.21c.89,0,1.76-.02,2.63,0,.37.01.47-.12.47-.47-.02-1.21,0-2.42,0-3.62,0-.17.01-.34.02-.53h1.52,0Z"
+              style="fill:#fff; stroke-width:0px;"/>
+        <path d="M27.83,12.2v6.18h-1.52v-4.57h-1.56v4.58h-1.52v-4.58h-1.47v4.57h-3.15v-6.18h9.24-.02Z"
+              style="fill:#cc3738; stroke-width:0px;"/>
+        <path d="M10.89,12.19h6.15c.01.12.04.23.04.33,0,1.8,0,3.61.01,5.42,0,.39-.12.5-.49.49-.84-.02-1.67,0-2.56,0v1.51c-1.01,0-1.97.01-2.92-.02-.08,0-.21-.28-.21-.44-.01-1.74,0-3.48,0-5.23v-2.06h-.02ZM14.03,16.77h1.42v-2.97h-1.42v2.97Z"
+              style="fill:#cc3738; stroke-width:0px;"/>
+        <path d="M7.84,13.8h-1.52c0,.18-.02.36-.02.53,0,1.21-.01,2.42,0,3.62,0,.35-.09.48-.47.47-.87-.03-1.73,0-2.63,0v-6.21h6.19v6.17h-1.56v-4.58h0Z"
+              style="fill:#cc3738; stroke-width:0px;"/>
+        <path d="M14.03,16.77v-2.97h1.42v2.97h-1.42Z" style="fill:#fff; stroke-width:0px;"/>
+        <path d="M31,1.6V.08H1.51C.68.08,0,.76,0,1.6h0v28.93h0c0,.83.68,1.51,1.51,1.51h29.49v-1.51h0c-.01-9.64-.01-19.28,0-28.93h0ZM8.78,19.94H2.15c-.38,0-.54-.07-.53-.5.02-2.76.02-5.52,0-8.28,0-.41.13-.52.52-.52h26.8c.13,0,.25.02.41.03v9.23h-13.79v1.54h-6.22v-1.52h-.56v.02Z"
+              style="fill:#cc3738; stroke-width:0px;"/>
+    </g>
+    <path d="M152,.02H5C2.24.02,0,2.26,0,5.03v22.03c0,2.76,2.24,5.01,5,5.01h147c2.76,0,5-2.24,5-5.01V5.03c0-2.76-2.24-5.01-5-5.01Z"
+          style="fill:url(#linear-gradient); stroke-width:0px;"/>
+    <text transform="translate(74.77 20.97)"
+          style="fill:#fff; font-family:Poppins-SemiBold, Poppins; font-size:15.49px; font-weight:600; letter-spacing:.01em;">
+        <tspan font-family="Arial, sans-serif" font-weight="400" font-size="14" x="0" y="0" fill="white">NPM</tspan>
+    </text>
+</svg>
