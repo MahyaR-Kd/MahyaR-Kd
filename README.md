@@ -29,7 +29,7 @@ A passionate problem-solver at heart, I thrive on collaborating with cross-funct
   </a>
     
    <a href="https://telegram.me/mahyar_kakavand" target="_blank">
-    <img src="svg/social/telegram.svg" alt="wordpress" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>
   
 
