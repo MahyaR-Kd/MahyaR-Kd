@@ -1,36 +1,39 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+![Mahyar Kakavand — Senior Backend Engineer](./assets/profile-banner.svg)
 
-### Hi there
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
- <strong>
-  🔭  My Professional skills
-  </strong>
+I design dependable backend systems for products with complex business workflows. My work spans distributed services, e-commerce, and fintech/crypto platforms, with an emphasis on maintainable APIs, explicit domain boundaries, and pragmatic event-driven architecture.
 
-<p align="center"> 
- 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,docker,postgres,mysql,mongodb&theme=dark)](https://mahyarkd.ir)
-  
+Based in Tehran, Iran — open to worldwide remote Senior Backend Engineer opportunities.
+
+<p align="center">
+  <a href="https://github.com/MahyaR-Kd">
+    <img src="https://github-readme-stats.vercel.app/api?username=MahyaR-Kd&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Mahyar Kakavand's GitHub activity" />
+  </a>
 </p>
 
-🌱 I am a dedicated backend developer with over five years of experience specializing in designing and implementing robust server-side applications using JavaScript and the Node.js platform. My expertise lies in leveraging NestJS with TypeScript for creating scalable, maintainable, and efficient backend services. I have extensive experience working with MySQL, PostgreSQL, and MongoDB databases, and I employ modern architectural patterns like Domain-Driven Design (DDD) to ensure modular and business-oriented systems.
+## What I work on
 
-I have a strong foundation in developing RESTful APIs, optimizing performance, and ensuring high-quality code through rigorous testing using tools like Jest. My experience with agile methodologies enables me to deliver solutions on time while maintaining high standards of code quality.
+- Turning product requirements into clear, resilient backend services
+- Designing maintainable APIs and service boundaries for evolving domains
+- Improving reliability through observability, performance testing, and thoughtful operational practices
+- Building asynchronous workflows where they make systems more reliable and easier to scale
 
-A passionate problem-solver at heart, I thrive on collaborating with cross-functional teams to tackle complex challenges and deliver customer-focused solutions. My drive for continuous learning and innovation fuels my ability to adapt to evolving technologies and industry trends, fostering both personal and professional growth. If you want to know more about me, visit my [linkedin](https://www.linkedin.com/in/mahyar-kakavand/).
+## Technical toolkit
 
-⚡ If you’d like to get in touch, feel free to say hello through any of the social medias.
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Node.js, TypeScript, NestJS, REST APIs |
+| **Architecture** | Domain-driven design, microservices, event-driven workflows, Kafka |
+| **Data** | MySQL, MariaDB, MongoDB, Redis, MinIO, Meilisearch |
+| **Platform** | Docker, Docker Compose, Traefik, GitHub Actions, Keycloak |
+| **Observability** | Prometheus, Grafana, Sentry, k6 |
 
-  <a href="https://www.npmjs.com/~mahyar-kd" target="_blank">
-    <img src="svg/social/npm-logo.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a>
-    
-  <a href="https://linkedin.com/in/mahyar-kakavand" target="_blank">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>
-    
-   <a href="https://telegram.me/mahyar_kakavand" target="_blank">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
+## Open source
 
-<br />
+- [**nestjs-saga**](https://github.com/MahyaR-Kd/nestjs-saga) — A NestJS-oriented library for coordinating multi-step application workflows with the saga pattern.
+- [**nestjs-minio**](https://github.com/MahyaR-Kd/nestjs-minio) — A NestJS module for clean MinIO object-storage integration.
+
+## Find me
+
+[Portfolio](https://mahyarkd.com) · [LinkedIn](https://www.linkedin.com/in/mahyar-kakavand) · [GitHub](https://github.com/MahyaR-Kd)
