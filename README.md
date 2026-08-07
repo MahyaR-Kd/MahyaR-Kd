@@ -6,9 +6,11 @@ I design dependable backend systems for products with complex business workflows
 
 Based in Tehran, Iran — open to worldwide remote Senior Backend Engineer opportunities.
 
+## Recent GitHub activity
+
 <p align="center">
   <a href="https://github.com/MahyaR-Kd">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahyaR-Kd&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Mahyar Kakavand's GitHub activity" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahyaR-Kd&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=58A6FF&amp;point=3FB950&amp;area=true&amp;hide_border=true" alt="Mahyar Kakavand's GitHub contribution activity" />
   </a>
 </p>
 
